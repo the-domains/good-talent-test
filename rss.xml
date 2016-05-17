@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Good Talent test]]></title>
         <description><![CDATA[Good Talent test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/good-talent-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 09:05:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 09:08:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/good-talent-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce6a3fad-afd4-4706-a816-d3d00400f255.jpg">]]></description>
-            <link>undefinedea4bf44a-71e5-401c-828e-2617ce9998a2/index.html</link>
+            <link>https://thegrid.ai/good-talent-test/ea4bf44a-71e5-401c-828e-2617ce9998a2/index.html</link>
             <guid isPermaLink="false">ea4bf44a-71e5-401c-828e-2617ce9998a2</guid>
-            <pubDate>Tue, 17 May 2016 09:05:21 GMT</pubDate>
+            <pubDate>Tue, 17 May 2016 09:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
