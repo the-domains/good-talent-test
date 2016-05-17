@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Good Talent test]]></title>
+        <description><![CDATA[Good Talent test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 09:05:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce6a3fad-afd4-4706-a816-d3d00400f255.jpg">]]></description>
+            <link>undefinedea4bf44a-71e5-401c-828e-2617ce9998a2/index.html</link>
+            <guid isPermaLink="false">ea4bf44a-71e5-401c-828e-2617ce9998a2</guid>
+            <pubDate>Tue, 17 May 2016 09:05:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
